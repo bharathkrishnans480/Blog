@@ -1,0 +1,9 @@
+#mr{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(177,59,59,1) 0%, rgba(255,166,0,1) 0%, rgba(69,156,186,1) 29%, rgba(214,166,12,1) 78%, rgba(76,150,179,1) 92%);
+
+}
+.bo{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(224,30,30,1) 0%, rgba(76,150,179,1) 60%, rgba(69,156,186,1) 80%, rgba(0,212,255,1) 87%);
+}
